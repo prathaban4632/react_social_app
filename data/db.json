@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "content": "This is the first post.",
+      "date": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "content": "This is the second post.",
+      "date": "2023-10-02"
+    },
+    {
+      "id": "473f",
+      "title": "prathap",
+      "content": "ssf",
+      "date": "2025-05-28 20:42:34"
+    }
+  ]
+}
