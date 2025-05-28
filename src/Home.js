@@ -3,7 +3,7 @@ import Feed from './Feed'
 import { DataContext } from './context/Datacontext';
 
 const Home = () => {
-  const { searchResults, loading, error } = useContext(DataContext);
+  const { searchResults } = useContext(DataContext);
 
   return (
    <main className='Home'>

@@ -11,7 +11,7 @@ import Footer from './Footer';
 import { Routes, Route } from 'react-router-dom';
 import Postlayout from './Postlayout';
 import EditPost from './Editpost';
-import DataProvider, { DataContext } from './context/Datacontext';
+import { DataContext } from './context/Datacontext';
 
 function App() {
   // Get all needed values from context
